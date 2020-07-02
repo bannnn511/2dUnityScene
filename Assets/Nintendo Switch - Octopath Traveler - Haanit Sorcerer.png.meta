@@ -1,0 +1,2276 @@
+fileFormatVersion: 2
+guid: 20450044abf5943ba8881425ce1fb0e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1691447600975436379
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_0
+  - first:
+      213: -2928556897194046863
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_1
+  - first:
+      213: -7930612487377130231
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_2
+  - first:
+      213: 7263312184327204483
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_3
+  - first:
+      213: 6343470402104365739
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_4
+  - first:
+      213: 850872542818637544
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_5
+  - first:
+      213: -4723043568474223976
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_6
+  - first:
+      213: -4897478965021423460
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_7
+  - first:
+      213: 6579070956083520646
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_8
+  - first:
+      213: -1509632362349592
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_9
+  - first:
+      213: 374006504974519367
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_10
+  - first:
+      213: -6487032595197820004
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_11
+  - first:
+      213: 4530014197665176863
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_12
+  - first:
+      213: -5929730006147649099
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_13
+  - first:
+      213: 1897687474987915915
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_14
+  - first:
+      213: 4303656925609704526
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_15
+  - first:
+      213: -8318483659131708225
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_16
+  - first:
+      213: 6781273435750473212
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_17
+  - first:
+      213: -964649803777346950
+    second: HaanitSocerer
+  - first:
+      213: 9100203129661499537
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_19
+  - first:
+      213: -4935671788067393223
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_20
+  - first:
+      213: -5511772016182617966
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_21
+  - first:
+      213: 4788114906305862136
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_22
+  - first:
+      213: -4798668877502115437
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_23
+  - first:
+      213: 4119856931355880413
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_24
+  - first:
+      213: 8521134542277120694
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_25
+  - first:
+      213: 242150448453335043
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_26
+  - first:
+      213: -5524214761381669821
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_27
+  - first:
+      213: -8537140308138724390
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_28
+  - first:
+      213: 8182423529585950854
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_29
+  - first:
+      213: 7911325680854019866
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_30
+  - first:
+      213: 3935113270805569355
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_31
+  - first:
+      213: -4405583060288500679
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_32
+  - first:
+      213: 3557565448246236494
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_33
+  - first:
+      213: -7223096693812267158
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_34
+  - first:
+      213: -4492511273524368599
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_35
+  - first:
+      213: 2865354468378376606
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_36
+  - first:
+      213: -3745635261721456029
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_37
+  - first:
+      213: -2509154293350419077
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_38
+  - first:
+      213: 8908944432376510565
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_39
+  - first:
+      213: -5801271351681770956
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_40
+  - first:
+      213: 6745406963548913976
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_41
+  - first:
+      213: 475750756343908926
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_42
+  - first:
+      213: 4132584478410078136
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_43
+  - first:
+      213: -4104604340011469397
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_44
+  - first:
+      213: 1494264651054002206
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_45
+  - first:
+      213: 5330249651523150602
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_46
+  - first:
+      213: 605741093027405694
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_47
+  - first:
+      213: 977283429227351700
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_48
+  - first:
+      213: -5048434744004770326
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_49
+  - first:
+      213: -6815010725132862177
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_50
+  - first:
+      213: 2006906802940751857
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_51
+  - first:
+      213: -3183721556196807989
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_52
+  - first:
+      213: -8135935052299914213
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_53
+  - first:
+      213: 4637332512059074790
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_54
+  - first:
+      213: -8491030893537785982
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_55
+  - first:
+      213: 1093991284219343410
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_56
+  - first:
+      213: 1187934011230768335
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_57
+  - first:
+      213: 1309666657747371953
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_58
+  - first:
+      213: -5388955965004112559
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_59
+  - first:
+      213: 5465758018202514641
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_60
+  - first:
+      213: -5761662777375553323
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_61
+  - first:
+      213: -4373438449738922497
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_62
+  - first:
+      213: -7732544131194161799
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_63
+  - first:
+      213: -6779923359428712663
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_64
+  - first:
+      213: -5187274625764817101
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_65
+  - first:
+      213: -1552120854015793152
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_66
+  - first:
+      213: -3651044479068764558
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_67
+  - first:
+      213: 3135071303037949915
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_68
+  - first:
+      213: -5039160042498475790
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_69
+  - first:
+      213: 685414979633824940
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_70
+  - first:
+      213: 2566751973384580633
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_71
+  - first:
+      213: 2624549725420249535
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_72
+  - first:
+      213: 2999808435538049356
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_73
+  - first:
+      213: 4391060833813749499
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_74
+  - first:
+      213: -8467751219517840903
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_75
+  - first:
+      213: 3831042092316925744
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_76
+  - first:
+      213: -3921403331487188277
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_77
+  - first:
+      213: -4170039721472215371
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_78
+  - first:
+      213: -7637931687263686565
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_79
+  - first:
+      213: 2455842776372637429
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_80
+  - first:
+      213: 6384682646098093079
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_81
+  - first:
+      213: -3708679724879116437
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_82
+  - first:
+      213: 7234013893560107688
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_83
+  - first:
+      213: -1936694835762358157
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_84
+  - first:
+      213: 2213760625696690628
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_85
+  - first:
+      213: 4929949037209639481
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_86
+  - first:
+      213: 6822594514284978229
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_87
+  - first:
+      213: -8720832347729766604
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_88
+  - first:
+      213: 7480886401518366597
+    second: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ad354a1aa397710800000000000000
+      internalID: 1691447600975436379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 156
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a8a36a40dab57d0800000000000000
+      internalID: -2928556897194046863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 156
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90deb9ef5fdc0f190800000000000000
+      internalID: -7930612487377130231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee69fe2f77cc460800000000000000
+      internalID: 7263312184327204483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 159
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba292a8b8b8880850800000000000000
+      internalID: 6343470402104365739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 156
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e696dfc118eecb00800000000000000
+      internalID: 850872542818637544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 156
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a8662f5e0647eb0800000000000000
+      internalID: -4723043568474223976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 160
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9843fa44d8a80cb0800000000000000
+      internalID: -4897478965021423460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 159
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a2795d2e8d4b50800000000000000
+      internalID: 6579070956083520646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 159
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebfc435ff2aafff0800000000000000
+      internalID: -1509632362349592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 160
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c01b84fecb03500800000000000000
+      internalID: 374006504974519367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 160
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938ad4793e69f5a0800000000000000
+      internalID: -6487032595197820004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 158
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d1f4769e7ddde30800000000000000
+      internalID: 4530014197665176863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 156
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b13899f9fd55bda0800000000000000
+      internalID: -5929730006147649099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 159
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8adc5144b0f55a10800000000000000
+      internalID: 1897687474987915915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 164
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cbd1e0c29a9bb30800000000000000
+      internalID: 4303656925609704526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 164
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc109b6f2fce8c80800000000000000
+      internalID: -8318483659131708225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 164
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd13b6d24ceb1e50800000000000000
+      internalID: 6781273435750473212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaanitSocerer
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 156
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7273394d10ec92f0800000000000000
+      internalID: -964649803777346950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 156
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1982f5f088a6a4e70800000000000000
+      internalID: 9100203129661499537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_20
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 163
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317358b8a8f08bb0800000000000000
+      internalID: -4935671788067393223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 163
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981f7ccd804283b0800000000000000
+      internalID: -5511772016182617966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91d16832dc27240800000000000000
+      internalID: 4788114906305862136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 127
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39193c19414b76db0800000000000000
+      internalID: -4798668877502115437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 121
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe5e61d0cac2930800000000000000
+      internalID: 4119856931355880413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 122
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b21db328b6214670800000000000000
+      internalID: 8521134542277120694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 123
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083346cc8a4c5300800000000000000
+      internalID: 242150448453335043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 123
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34450ec61fb0653b0800000000000000
+      internalID: -5524214761381669821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 123
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3f8b71f1cf58980800000000000000
+      internalID: -8537140308138724390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 123
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680c4ca09decd8170800000000000000
+      internalID: 8182423529585950854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1faabd6accaacd60800000000000000
+      internalID: 7911325680854019866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 121
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f9a41bba45c9630800000000000000
+      internalID: 3935113270805569355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 113
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c86076c893cd2c0800000000000000
+      internalID: -4405583060288500679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 124
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e459be72de20f5130800000000000000
+      internalID: 3557565448246236494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 124
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67750b93d762cb90800000000000000
+      internalID: -7223096693812267158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 125
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b64209cc467a1c0800000000000000
+      internalID: -4492511273524368599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 125
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99754b25b8c3c720800000000000000
+      internalID: 2865354468378376606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_37
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 123
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3625aee1394d40cc0800000000000000
+      internalID: -3745635261721456029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_38
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 121
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b33ad671bd2dd0800000000000000
+      internalID: -2509154293350419077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568fe7772cde2ab70800000000000000
+      internalID: 8908944432376510565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9b5d217ebd7fa0800000000000000
+      internalID: -5801271351681770956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 81
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83187c705ef7c9d50800000000000000
+      internalID: 6745406963548913976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 81
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a8081dac43a9600800000000000000
+      internalID: 475750756343908926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7fcef00b3e95930800000000000000
+      internalID: 4132584478410078136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5f61299148907c0800000000000000
+      internalID: -4104604340011469397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e103f7e78c1bcb410800000000000000
+      internalID: 1494264651054002206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 78
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03ef2331d9d8f940800000000000000
+      internalID: 5330249651523150602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 81
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f51c39056086800800000000000000
+      internalID: 605741093027405694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_48
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 78
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec8fbd912009d00800000000000000
+      internalID: 977283429227351700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 78
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae50bdb195b50f9b0800000000000000
+      internalID: -5048434744004770326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 78
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7afb5ad73c61a0800000000000000
+      internalID: -6815010725132862177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 80
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff299eaa17f9db10800000000000000
+      internalID: 2006906802940751857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 79
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa22bdc1621d3d0800000000000000
+      internalID: -3183721556196807989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_53
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 78
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14b30c0d2a571f80800000000000000
+      internalID: -8135935052299914213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 99
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8a6ae995d1b5040800000000000000
+      internalID: 4637332512059074790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28700d5c36cc92a80800000000000000
+      internalID: -8491030893537785982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 41
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232744bd643ae2f00800000000000000
+      internalID: 1093991284219343410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccc30470b36c7010800000000000000
+      internalID: 1187934011230768335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 41
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b78435e2eedc2210800000000000000
+      internalID: 1309666657747371953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 39
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d15bb0a159635b0800000000000000
+      internalID: -5388955965004112559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 39
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4343f65f54adb40800000000000000
+      internalID: 5465758018202514641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 39
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d880f60b367a00b0800000000000000
+      internalID: -5761662777375553323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_62
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 39
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c644c6ec6e43c0800000000000000
+      internalID: -4373438449738922497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 39
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975f32ad41c70b490800000000000000
+      internalID: -7732544131194161799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 39
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927e0ec40afd8e1a0800000000000000
+      internalID: -6779923359428712663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_65
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 39
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33704e216391308b0800000000000000
+      internalID: -5187274625764817101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_66
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 39
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a9e78e42c57ae0800000000000000
+      internalID: -1552120854015793152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_67
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 39
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27684fde362e45dc0800000000000000
+      internalID: -3651044479068764558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_68
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 39
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd719136db2028b20800000000000000
+      internalID: 3135071303037949915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_69
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 39
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f83984d3ae411ab0800000000000000
+      internalID: -5039160042498475790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_70
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 39
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44ec0ea45138900800000000000000
+      internalID: 685414979633824940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 39
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eee10125fee9320800000000000000
+      internalID: 2566751973384580633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_72
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 40
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e50fd1164c6420800000000000000
+      internalID: 2624549725420249535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_73
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 40
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c493772e0e571a920800000000000000
+      internalID: 2999808435538049356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_74
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 40
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe5992409e20fc30800000000000000
+      internalID: 4391060833813749499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_75
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 39
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1224241218c7a80800000000000000
+      internalID: -8467751219517840903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 39
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f9e183c789a2530800000000000000
+      internalID: 3831042092316925744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca3cad42706499c0800000000000000
+      internalID: -3921403331487188277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_78
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6316697fa0126c0800000000000000
+      internalID: -4170039721472215371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_79
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50b2f1199d900690800000000000000
+      internalID: -7637931687263686565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe66e55ef7e41220800000000000000
+      internalID: 2455842776372637429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_81
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71427440a03fa9850800000000000000
+      internalID: 6384682646098093079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6703ec807f188cc0800000000000000
+      internalID: -3708679724879116437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_83
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a204e90f41646460800000000000000
+      internalID: 7234013893560107688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_84
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781d04de4a7f15e0800000000000000
+      internalID: -1936694835762358157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_85
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 4
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d5606f8bd8be10800000000000000
+      internalID: 2213760625696690628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_86
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad8a38782ba6440800000000000000
+      internalID: 4929949037209639481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_87
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 5
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302c762099beae50800000000000000
+      internalID: 6822594514284978229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_88
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437d4d74f2169f680800000000000000
+      internalID: -8720832347729766604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Sorcerer_89
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f6d87fb8271d760800000000000000
+      internalID: 7480886401518366597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
