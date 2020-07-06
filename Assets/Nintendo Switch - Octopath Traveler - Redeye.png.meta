@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: d6e6f79987c0340219a08447c85f6043
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3359598073340997634
+    second: Nintendo Switch - Octopath Traveler - Redeye_0
+  - first:
+      213: -6373229884541817444
+    second: Nintendo Switch - Octopath Traveler - Redeye_1
+  - first:
+      213: 6584300197649167804
+    second: Nintendo Switch - Octopath Traveler - Redeye_2
+  - first:
+      213: 7787889929421963418
+    second: Nintendo Switch - Octopath Traveler - Redeye_3
+  - first:
+      213: -2039899332020606718
+    second: Nintendo Switch - Octopath Traveler - Redeye_4
+  - first:
+      213: -720511847114377250
+    second: Nintendo Switch - Octopath Traveler - Redeye_5
+  - first:
+      213: -924741937003765250
+    second: Nintendo Switch - Octopath Traveler - Redeye_6
+  - first:
+      213: 4487475055360993534
+    second: Nintendo Switch - Octopath Traveler - Redeye_7
+  - first:
+      213: -7819449875686765292
+    second: Nintendo Switch - Octopath Traveler - Redeye_8
+  - first:
+      213: -6152130354988382749
+    second: Nintendo Switch - Octopath Traveler - Redeye_9
+  - first:
+      213: 6351363633613801104
+    second: Nintendo Switch - Octopath Traveler - Redeye_10
+  - first:
+      213: 2456660277990237913
+    second: Nintendo Switch - Octopath Traveler - Redeye_11
+  - first:
+      213: 1132324614481064451
+    second: Nintendo Switch - Octopath Traveler - Redeye_12
+  - first:
+      213: 2388813695705108620
+    second: Nintendo Switch - Octopath Traveler - Redeye_13
+  - first:
+      213: 1234573062851662477
+    second: Nintendo Switch - Octopath Traveler - Redeye_14
+  - first:
+      213: -2464358242053498588
+    second: Nintendo Switch - Octopath Traveler - Redeye_15
+  - first:
+      213: -4933523066052913755
+    second: Nintendo Switch - Octopath Traveler - Redeye_16
+  - first:
+      213: -5335606097685891980
+    second: Nintendo Switch - Octopath Traveler - Redeye_17
+  - first:
+      213: 620770509393810141
+    second: Nintendo Switch - Octopath Traveler - Redeye_18
+  - first:
+      213: -7744849449028528528
+    second: Nintendo Switch - Octopath Traveler - Redeye_19
+  - first:
+      213: 3754566507975868916
+    second: Nintendo Switch - Octopath Traveler - Redeye_20
+  - first:
+      213: -504041844673978649
+    second: Nintendo Switch - Octopath Traveler - Redeye_21
+  - first:
+      213: -2797138182276687448
+    second: Nintendo Switch - Octopath Traveler - Redeye_22
+  - first:
+      213: 3787163712255125778
+    second: Nintendo Switch - Octopath Traveler - Redeye_23
+  - first:
+      213: -879116852593882268
+    second: Nintendo Switch - Octopath Traveler - Redeye_24
+  - first:
+      213: 6285981967456784147
+    second: Nintendo Switch - Octopath Traveler - Redeye_25
+  - first:
+      213: 5095092363943359436
+    second: Nintendo Switch - Octopath Traveler - Redeye_26
+  - first:
+      213: 3114460389136820793
+    second: Nintendo Switch - Octopath Traveler - Redeye_27
+  - first:
+      213: 1108930264163353198
+    second: Nintendo Switch - Octopath Traveler - Redeye_28
+  - first:
+      213: -3230528236744403435
+    second: Nintendo Switch - Octopath Traveler - Redeye_29
+  - first:
+      213: -7953818405161801756
+    second: Boss2
+  - first:
+      213: -2704682809689097240
+    second: Nintendo Switch - Octopath Traveler - Redeye_31
+  - first:
+      213: 6929831436070983946
+    second: Nintendo Switch - Octopath Traveler - Redeye_32
+  - first:
+      213: -5072415991914123058
+    second: Nintendo Switch - Octopath Traveler - Redeye_0
+  - first:
+      213: 5818397093649849929
+    second: Nintendo Switch - Octopath Traveler - Redeye_1
+  - first:
+      213: -8344847061661055049
+    second: Nintendo Switch - Octopath Traveler - Redeye_2
+  - first:
+      213: -3290015353761778180
+    second: Nintendo Switch - Octopath Traveler - Redeye_3
+  - first:
+      213: -979674389109360359
+    second: Nintendo Switch - Octopath Traveler - Redeye_4
+  - first:
+      213: 5211363383924314215
+    second: Nintendo Switch - Octopath Traveler - Redeye_5
+  - first:
+      213: 2906253794453569875
+    second: Nintendo Switch - Octopath Traveler - Redeye_6
+  - first:
+      213: -6587763923401350755
+    second: Nintendo Switch - Octopath Traveler - Redeye_7
+  - first:
+      213: 6035779737325739984
+    second: Nintendo Switch - Octopath Traveler - Redeye_8
+  - first:
+      213: 3372007744489039816
+    second: Nintendo Switch - Octopath Traveler - Redeye_9
+  - first:
+      213: 7625248844396979930
+    second: Nintendo Switch - Octopath Traveler - Redeye_10
+  - first:
+      213: 9050536324382494917
+    second: Nintendo Switch - Octopath Traveler - Redeye_11
+  - first:
+      213: 7396430906675501034
+    second: Nintendo Switch - Octopath Traveler - Redeye_12
+  - first:
+      213: -285455493777604360
+    second: Nintendo Switch - Octopath Traveler - Redeye_13
+  - first:
+      213: 2499851964186287452
+    second: Nintendo Switch - Octopath Traveler - Redeye_14
+  - first:
+      213: -4851917236654229128
+    second: Nintendo Switch - Octopath Traveler - Redeye_15
+  - first:
+      213: -8442707688581078588
+    second: Nintendo Switch - Octopath Traveler - Redeye_16
+  - first:
+      213: -9001258929683296000
+    second: Nintendo Switch - Octopath Traveler - Redeye_17
+  - first:
+      213: 7382633774612116705
+    second: Nintendo Switch - Octopath Traveler - Redeye_18
+  - first:
+      213: -3729039857542728355
+    second: Nintendo Switch - Octopath Traveler - Redeye_19
+  - first:
+      213: -4646222836522964815
+    second: Nintendo Switch - Octopath Traveler - Redeye_20
+  - first:
+      213: -8220557578973772861
+    second: Nintendo Switch - Octopath Traveler - Redeye_21
+  - first:
+      213: 3106347178803423028
+    second: Nintendo Switch - Octopath Traveler - Redeye_22
+  - first:
+      213: 1172375933526567791
+    second: Nintendo Switch - Octopath Traveler - Redeye_23
+  - first:
+      213: 2985563000579289576
+    second: Nintendo Switch - Octopath Traveler - Redeye_24
+  - first:
+      213: -7519740260563112631
+    second: Nintendo Switch - Octopath Traveler - Redeye_25
+  - first:
+      213: 5924975817650911432
+    second: Nintendo Switch - Octopath Traveler - Redeye_26
+  - first:
+      213: -410717478281847099
+    second: Nintendo Switch - Octopath Traveler - Redeye_27
+  - first:
+      213: -705814885668335370
+    second: Nintendo Switch - Octopath Traveler - Redeye_28
+  - first:
+      213: -1465350371587887346
+    second: Nintendo Switch - Octopath Traveler - Redeye_29
+  - first:
+      213: 2834970430912713248
+    second: Nintendo Switch - Octopath Traveler - Redeye_30
+  - first:
+      213: -8959658173545152441
+    second: Nintendo Switch - Octopath Traveler - Redeye_31
+  - first:
+      213: 4113080540658953053
+    second: Nintendo Switch - Octopath Traveler - Redeye_32
+  - first:
+      213: -7349886607618104678
+    second: Nintendo Switch - Octopath Traveler - Redeye_33
+  - first:
+      213: -7031250892257258951
+    second: Nintendo Switch - Octopath Traveler - Redeye_34
+  - first:
+      213: 4217160028440261701
+    second: Nintendo Switch - Octopath Traveler - Redeye_35
+  - first:
+      213: 5302883150128221984
+    second: Nintendo Switch - Octopath Traveler - Redeye_36
+  - first:
+      213: -2256527295415100287
+    second: Nintendo Switch - Octopath Traveler - Redeye_37
+  - first:
+      213: -6906644476416631599
+    second: Nintendo Switch - Octopath Traveler - Redeye_38
+  - first:
+      213: 1361528479439088904
+    second: Nintendo Switch - Octopath Traveler - Redeye_39
+  - first:
+      213: -5916146249427071754
+    second: Nintendo Switch - Octopath Traveler - Redeye_40
+  - first:
+      213: 3698787130524382276
+    second: Nintendo Switch - Octopath Traveler - Redeye_41
+  - first:
+      213: -9026510795094699644
+    second: Nintendo Switch - Octopath Traveler - Redeye_42
+  - first:
+      213: 6248231773337579712
+    second: Nintendo Switch - Octopath Traveler - Redeye_43
+  - first:
+      213: 1908378945405928143
+    second: Nintendo Switch - Octopath Traveler - Redeye_44
+  - first:
+      213: 800267031834439296
+    second: Nintendo Switch - Octopath Traveler - Redeye_45
+  - first:
+      213: 632349172376927336
+    second: Nintendo Switch - Octopath Traveler - Redeye_46
+  - first:
+      213: 5732972769371676542
+    second: Nintendo Switch - Octopath Traveler - Redeye_47
+  - first:
+      213: -5438702742222986258
+    second: Nintendo Switch - Octopath Traveler - Redeye_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0b2f8b7882b99b0800000000000000
+      internalID: -5072415991914123058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 233
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1a2954591fb050800000000000000
+      internalID: 5818397093649849929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 298
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b70bb07fc5213c80800000000000000
+      internalID: -8344847061661055049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 289
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b27d87748752d0800000000000000
+      internalID: -3290015353761778180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 234
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b699655f7762f0800000000000000
+      internalID: -979674389109360359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 303
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760594ef26b725840800000000000000
+      internalID: 5211363383924314215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 235
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35149859d66155820800000000000000
+      internalID: 2906253794453569875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 239
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9167897d9f8394a0800000000000000
+      internalID: -6587763923401350755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 296
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df1dc131b563c350800000000000000
+      internalID: 6035779737325739984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 255
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a22e8d27cbce20800000000000000
+      internalID: 3372007744489039816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 246
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66d367c6352d960800000000000000
+      internalID: 7625248844396979930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09691d5d6f99d70800000000000000
+      internalID: 9050536324382494917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae71d1eb8b665a660800000000000000
+      internalID: 7396430906675501034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 195
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c336adbbd90cf0800000000000000
+      internalID: -285455493777604360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 156
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd26cdd1241b220800000000000000
+      internalID: 2499851964186287452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 197
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87931a5daf68aacb0800000000000000
+      internalID: -4851917236654229128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 150
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16aafa61a75da80800000000000000
+      internalID: -8442707688581078588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 203
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0011ae4b1ba151380800000000000000
+      internalID: -9001258929683296000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 158
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e47e8a9d42647660800000000000000
+      internalID: 7382633774612116705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 157
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5574e1c10acf3cc0800000000000000
+      internalID: -3729039857542728355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 178
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8adb962fc458fb0800000000000000
+      internalID: -4646222836522964815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 186
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38f91bf66baed80800000000000000
+      internalID: -8220557578973772861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 161
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4376d9d0d46fb1b20800000000000000
+      internalID: 3106347178803423028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b611533bd154010800000000000000
+      internalID: 1172375933526567791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f3181bb9de6920800000000000000
+      internalID: 2985563000579289576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 165
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94daee5031484a790800000000000000
+      internalID: -7519740260563112631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 78
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8bcd14d1eb93250800000000000000
+      internalID: 5924975817650911432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 84
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce57fb21a6dc4af0800000000000000
+      internalID: -410717478281847099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 143
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05e8ed9117436f0800000000000000
+      internalID: -705814885668335370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 83
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f640ec9970aabe0800000000000000
+      internalID: -1465350371587887346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 121
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d94b2696d75720800000000000000
+      internalID: 2834970430912713248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 89
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408ae88c56e8a380800000000000000
+      internalID: -8959658173545152441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b6c8ea5f8941930800000000000000
+      internalID: 4113080540658953053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_33
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 109
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a58d5215fff990800000000000000
+      internalID: -7349886607618104678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 95
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9329b50119afb6e90800000000000000
+      internalID: -7031250892257258951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 93
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5447820d3bc568a30800000000000000
+      internalID: 4217160028440261701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 89
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f0cc01120a79940800000000000000
+      internalID: 5302883150128221984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5fc261643fa0e0800000000000000
+      internalID: -2256527295415100287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 6
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd541117ba620a0800000000000000
+      internalID: -6906644476416631599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 70
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d6b8830fe15e210800000000000000
+      internalID: 1361528479439088904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_40
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 11
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc3abc450a5eda0800000000000000
+      internalID: -5916146249427071754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 6
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44431b65c4bb45330800000000000000
+      internalID: 3698787130524382276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_42
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 65
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481d621a1446bb280800000000000000
+      internalID: -9026510795094699644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 56
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0781c71bd26b650800000000000000
+      internalID: 6248231773337579712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_44
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 4
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc241c13a8ceb7a10800000000000000
+      internalID: 1908378945405928143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 68
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ea2fd10ae1b1b00800000000000000
+      internalID: 800267031834439296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf981d83e86c800800000000000000
+      internalID: 632349172376927336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 22
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd261fb5c9f8f40800000000000000
+      internalID: 5732972769371676542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Redeye_48
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 22
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee32bd2eba8d584b0800000000000000
+      internalID: -5438702742222986258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: 875af53b52e1c435f96fbf4aa1abb259
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6223840272799554432
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_0
+  - first:
+      213: 2757594977343862039
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_1
+  - first:
+      213: 4514602065601176028
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_2
+  - first:
+      213: -2371479814258938965
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_3
+  - first:
+      213: -398640330649748126
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_4
+  - first:
+      213: 5983355370528923531
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_5
+  - first:
+      213: -5808021247068211204
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_6
+  - first:
+      213: 4595043576582769450
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_7
+  - first:
+      213: 2343327373046955067
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_8
+  - first:
+      213: 5526647705833908716
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_9
+  - first:
+      213: -5076826390452174011
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_10
+  - first:
+      213: -7400764316386436740
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_11
+  - first:
+      213: 1927884406645239628
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_12
+  - first:
+      213: -6914692756301810938
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_13
+  - first:
+      213: 2330015277525720830
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_14
+  - first:
+      213: 1701219840351580734
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_15
+  - first:
+      213: -4535762321685942968
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_16
+  - first:
+      213: -5905579216943199918
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_17
+  - first:
+      213: 2665175754606250354
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_18
+  - first:
+      213: -6931733365932233011
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_19
+  - first:
+      213: -780805805486005053
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_20
+  - first:
+      213: 4678244289407850150
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_21
+  - first:
+      213: 2745532567269469886
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_22
+  - first:
+      213: -4280700070349466043
+    second: Alfyn
+  - first:
+      213: 4210769166494859886
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_24
+  - first:
+      213: -8498476356131135371
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_25
+  - first:
+      213: -5752227966590445822
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_26
+  - first:
+      213: 2598241910759471055
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_27
+  - first:
+      213: 1004787490360225903
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_28
+  - first:
+      213: -3494759446065600507
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_29
+  - first:
+      213: 5729613971730688924
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_30
+  - first:
+      213: 1810223544534343645
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_31
+  - first:
+      213: -7078233279458400724
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_32
+  - first:
+      213: -2313755720071302401
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_33
+  - first:
+      213: 7035557449524230506
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_34
+  - first:
+      213: 5500703432860683942
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_35
+  - first:
+      213: -5604478883807927336
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_36
+  - first:
+      213: -455001011620651586
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_37
+  - first:
+      213: -6816456229225827535
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_38
+  - first:
+      213: 6204738697546470277
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_39
+  - first:
+      213: -5295517156815842596
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_40
+  - first:
+      213: -5940101268171317870
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_41
+  - first:
+      213: -9008084011316875610
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_42
+  - first:
+      213: 8060848046034773461
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_43
+  - first:
+      213: -1160956163463190139
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_44
+  - first:
+      213: -8575053233373945559
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_45
+  - first:
+      213: 4828570021423834621
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_46
+  - first:
+      213: 1262808249530053126
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_47
+  - first:
+      213: -8374865942235587293
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_48
+  - first:
+      213: -3853236081069832389
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_49
+  - first:
+      213: -4019356328876475184
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_50
+  - first:
+      213: -5821570050271929518
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_51
+  - first:
+      213: 2842353793942253388
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_52
+  - first:
+      213: 1670420596885712851
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_53
+  - first:
+      213: -6904479251032474283
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_54
+  - first:
+      213: 8752771217944679813
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_55
+  - first:
+      213: -3131428952669673385
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_56
+  - first:
+      213: 8248308683907915870
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_57
+  - first:
+      213: -6285666681052475971
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_58
+  - first:
+      213: -7190584040005644034
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_59
+  - first:
+      213: -5368270893784582910
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_60
+  - first:
+      213: -5219903217818855824
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_61
+  - first:
+      213: 3173052144144460222
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_62
+  - first:
+      213: 6229499934305548207
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_63
+  - first:
+      213: 6935764207794193186
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_64
+  - first:
+      213: 5824152007500366030
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_65
+  - first:
+      213: 7371717135013537109
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_66
+  - first:
+      213: 6008090034616551061
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_67
+  - first:
+      213: 8584599409134032798
+    second: Nintendo Switch - Octopath Traveler - Alfyn Scholar_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 221
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08423094f3a70a9a0800000000000000
+      internalID: -6223840272799554432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 221
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7157bf28502f44620800000000000000
+      internalID: 2757594977343862039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 221
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd12766c8a617ae30800000000000000
+      internalID: 4514602065601176028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 220
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab261f6cafc61fd0800000000000000
+      internalID: -2371479814258938965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 222
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d3a7a3bbeb77af0800000000000000
+      internalID: -398640330649748126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 224
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5d412206290350800000000000000
+      internalID: 5983355370528923531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 224
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f390b273c56fa0800000000000000
+      internalID: -5808021247068211204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 225
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b08ad89cfd4cf30800000000000000
+      internalID: 4595043576582769450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 225
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cb9ee84db258020800000000000000
+      internalID: 2343327373046955067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 224
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce925f89ec892bc40800000000000000
+      internalID: 5526647705833908716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 222
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54305cacb4d7b89b0800000000000000
+      internalID: -5076826390452174011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 223
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79566fa0143b4990800000000000000
+      internalID: -7400764316386436740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 228
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4faa1a47a831ca10800000000000000
+      internalID: 1927884406645239628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 220
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603f9a1e2931a00a0800000000000000
+      internalID: -6914692756301810938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 220
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe572acc80e55020800000000000000
+      internalID: 2330015277525720830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32b00d6e62fb9710800000000000000
+      internalID: 1701219840351580734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 228
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dee4e233cbd01c0800000000000000
+      internalID: -4535762321685942968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 222
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259cb25cdfa2b0ea0800000000000000
+      internalID: -5905579216943199918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 213
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2790a456a3b9cf420800000000000000
+      internalID: 2665175754606250354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 224
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee2e5ca398dcf90800000000000000
+      internalID: -6931733365932233011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 225
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a17db1450a25f0800000000000000
+      internalID: -780805805486005053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a697a215667ce040800000000000000
+      internalID: 4678244289407850150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 181
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeec5fc2571a1620800000000000000
+      internalID: 2745532567269469886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 179
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54694d457f5e794c0800000000000000
+      internalID: -4280700070349466043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 179
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6208105f38af6a30800000000000000
+      internalID: 4210769166494859886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 174
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5706fbce7c85f0a80800000000000000
+      internalID: -8498476356131135371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 181
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071f48142bfb20b0800000000000000
+      internalID: -5752227966590445822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 182
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7b953704fce0420800000000000000
+      internalID: 2598241910759471055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 182
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607dad16e8b1fd00800000000000000
+      internalID: 1004787490360225903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 181
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a1d1ccce108fc0800000000000000
+      internalID: -3494759446065600507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 179
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6f1dec8da38f40800000000000000
+      internalID: 5729613971730688924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 180
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf940809b43f1910800000000000000
+      internalID: 1810223544534343645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_32
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 180
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a88c955015cd90800000000000000
+      internalID: -7078233279458400724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 180
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff23f107e63e3efd0800000000000000
+      internalID: -2313755720071302401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 180
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69bebf693253a160800000000000000
+      internalID: 7035557449524230506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_35
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 179
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aece62d0ac665c40800000000000000
+      internalID: 5500703432860683942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 177
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d363732624e832b0800000000000000
+      internalID: -5604478883807927336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd58e99df28fa9f0800000000000000
+      internalID: -455001011620651586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 141
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133fef5bc251761a0800000000000000
+      internalID: -6816456229225827535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5839067a8f8ab1650800000000000000
+      internalID: 6204738697546470277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 140
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25106e33b8286b0800000000000000
+      internalID: -5295517156815842596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d1dcc5e55809da0800000000000000
+      internalID: -5940101268171317870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 138
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aee49e815bdcf280800000000000000
+      internalID: -9008084011316875610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ed44f692eddf60800000000000000
+      internalID: 8060848046034773461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e9f4358473efe0800000000000000
+      internalID: -1160956163463190139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 138
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9216eae448a4ff880800000000000000
+      internalID: -8575053233373945559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df561140ad6820340800000000000000
+      internalID: 4828570021423834621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_47
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602fbac8965668110800000000000000
+      internalID: 1262808249530053126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd7872ccf76cb80800000000000000
+      internalID: -8374865942235587293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b374d18133e868ac0800000000000000
+      internalID: -3853236081069832389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc799fd6b06838c0800000000000000
+      internalID: -4019356328876475184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b1d7e12e0a53fa0800000000000000
+      internalID: -5821570050271929518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 138
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f69e557b1127720800000000000000
+      internalID: 2842353793942253388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 139
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df6edebea68e2710800000000000000
+      internalID: 1670420596885712851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 138
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d7723e3bc5e20a0800000000000000
+      internalID: -6904479251032474283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 138
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851bdd6c07187970800000000000000
+      internalID: 8752771217944679813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 158
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75820c465fdea84d0800000000000000
+      internalID: -3131428952669673385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 139
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e91eeb01e77270800000000000000
+      internalID: 8248308683907915870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_58
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 138
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdcb5bd473d4c8a0800000000000000
+      internalID: -6285666681052475971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_59
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 137
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ded7b9e9e53c90800000000000000
+      internalID: -7190584040005644034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b6ed70121085b0800000000000000
+      internalID: -5368270893784582910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 102
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761dfbfdad2f87b0800000000000000
+      internalID: -5219903217818855824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a5811d12f80c20800000000000000
+      internalID: 3173052144144460222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_63
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f9985f21a37650800000000000000
+      internalID: 6229499934305548207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 101
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223017bbcc8c04060800000000000000
+      internalID: 6935764207794193186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 100
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec000f4a46b83d050800000000000000
+      internalID: 5824152007500366030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_66
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55564216da99d4660800000000000000
+      internalID: 7371717135013537109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 102
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59642e3ed06016350800000000000000
+      internalID: 6008090034616551061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Alfyn Scholar_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975670fdaf922770800000000000000
+      internalID: 8584599409134032798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

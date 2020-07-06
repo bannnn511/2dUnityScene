@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: e802a9352a5f6478281c611c8512e0bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4200679591421274733
+    second: battle_bg00_c_gim_00020700_0
+  - first:
+      213: 8715061894882885506
+    second: Bacground1
+  - first:
+      213: 2088437042927685177
+    second: Background2
+  - first:
+      213: -642159160454951732
+    second: 3
+  - first:
+      213: 3061442014591226002
+    second: battle_bg00_c_gim_00020700_4
+  - first:
+      213: 88658415408109388
+    second: battle_bg00_c_gim_00020700_5
+  - first:
+      213: -5809391912827576396
+    second: battle_bg00_c_gim_00020700_6
+  - first:
+      213: -8214449708013505767
+    second: battle_bg00_c_gim_00020700_7
+  - first:
+      213: -9174138118091139923
+    second: battle_bg00_c_gim_00020700_8
+  - first:
+      213: -4560062256191112941
+    second: battle_bg00_c_gim_00020700_9
+  - first:
+      213: 4036099052061737720
+    second: battle_bg00_c_gim_00020700_10
+  - first:
+      213: -1328766127216290842
+    second: battle_bg00_c_gim_00020700_11
+  - first:
+      213: -5775777301415539847
+    second: battle_bg00_c_gim_00020700_12
+  - first:
+      213: 6333260826676271745
+    second: battle_bg00_c_gim_00020700_0
+  - first:
+      213: 8646906608304239121
+    second: Background1
+  - first:
+      213: 3352851940543664627
+    second: Background2
+  - first:
+      213: -3190252347099491163
+    second: 3
+  - first:
+      213: -3242833888046930991
+    second: battle_bg00_c_gim_00020700_4
+  - first:
+      213: 3182213078927883659
+    second: battle_bg00_c_gim_00020700_5
+  - first:
+      213: -2707595424676287722
+    second: battle_bg00_c_gim_00020700_6
+  - first:
+      213: 3018778030913606611
+    second: battle_bg00_c_gim_00020700_7
+  - first:
+      213: -1011616352854984726
+    second: battle_bg00_c_gim_00020700_8
+  - first:
+      213: -1265382282990013262
+    second: battle_bg00_c_gim_00020700_9
+  - first:
+      213: 7286874101217814687
+    second: battle_bg00_c_gim_00020700_10
+  - first:
+      213: 8157001351266077993
+    second: battle_bg00_c_gim_00020700_11
+  - first:
+      213: -7958309139977153626
+    second: battle_bg00_c_gim_00020700_12
+  - first:
+      213: 8715061894882885506
+    second: Background1
+  - first:
+      213: 3352851940543664627
+    second: Bacground2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 172
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9fe3ba2344e750800000000000000
+      internalID: 6333260826676271745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacground2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 67
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f195946319b78e20800000000000000
+      internalID: 3352851940543664627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 67
+        width: 83
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4574b9462f9b3d0800000000000000
+      internalID: -3190252347099491163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 48
+        width: 51
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32d5592c32ff2d0800000000000000
+      internalID: -3242833888046930991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 174
+        width: 9
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d39196fed792c20800000000000000
+      internalID: 3182213078927883659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 87
+        width: 172
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b62b48e40bc6ad0800000000000000
+      internalID: -2707595424676287722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_7
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 130
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3db5cff9ad4e920800000000000000
+      internalID: 3018778030913606611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 155
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73a1f694406f1f0800000000000000
+      internalID: -1011616352854984726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 206
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4be459485707ee0800000000000000
+      internalID: -1265382282990013262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 49
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98e416336d202560800000000000000
+      internalID: 7286874101217814687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d8896e28d733170800000000000000
+      internalID: 8157001351266077993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_bg00_c_gim_00020700_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 10
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3daea80086e8190800000000000000
+      internalID: -7958309139977153626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 67
+        width: 83
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f79087e9e12f870800000000000000
+      internalID: 8715061894882885506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
