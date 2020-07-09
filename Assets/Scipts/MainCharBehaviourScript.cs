@@ -74,7 +74,8 @@ public class MainCharBehaviourScript : MonoBehaviour
 		{
 			hellFireObject.SetActive(true);
 			index += Time.deltaTime;
-			float x = amplitudeX * Mathf.Cos(omegaX * index) - hellFireObject.transform.position.x;
+			float x = amplitudeX * Mathf.Cos(omegaX * index);
+			// float x = amplitudeX * Mathf.Cos(omegaX * index) - hellFireObject.transform.position.x;
 			float y = Mathf.Abs(amplitudeY * Mathf.Sin(omegaY * index));
 			hellFireObject.transform.localPosition = new Vector3(x, y, 0);
 		}
